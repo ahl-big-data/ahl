@@ -2,7 +2,7 @@
 AHL parent repo. 
 
 ## Project
-Top-level project documentation can be found in `/docs`. Most high-level plans are written out in Notion and are aggregated in [/docs/NOTION.md](./docs/NOTION.md).
+Top-level project documentation can be found in `/docs`. Most high-level plans are written out in Notion and are aggregated in [`/docs/NOTION.md`](./docs/NOTION.md).
 
 ## Organization
 ### `/exploration`
