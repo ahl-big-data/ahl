@@ -1,18 +1,22 @@
 # ahl
 AHL parent repo. 
 
-## `/exploration`
+## Project
+Top-level project documentation can be found in `/docs`. Most high-level plans are written out in Notion and are aggregated in [/docs/NOTION.md](./docs/NOTION.md).
+
+## Organization
+### `/exploration`
 Data exploration `.ipynb` go here.
 
-## `/models`
+### `/models`
 Models and training logic we develop go here. 
 
-## `/services`
+### `/services`
 If we do any kinds of backend services, those go here.
 
-## `/fronts`
+### `/fronts`
 If we do any kind of frontend, those go here.
 
-## `/bin`
+### `/bin`
 Top-level shell scripts for managing the project.
 
