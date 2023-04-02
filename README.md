@@ -20,3 +20,6 @@ If we do any kind of frontend, those go here.
 ### `/bin`
 Top-level shell scripts for managing the project.
 
+### `/docs`
+Top-level project documentation.
+
